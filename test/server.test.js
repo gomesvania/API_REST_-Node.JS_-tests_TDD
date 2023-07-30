@@ -7,7 +7,6 @@
 //   //verificar se a resposta foi o status 200
 // });
 
-// Path: test/server.test.js
 const superTest = require('supertest');
 // importar o app
 const app = require('../src/app');
